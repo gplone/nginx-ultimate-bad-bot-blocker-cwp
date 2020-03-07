@@ -8,7 +8,7 @@
 
 WWW=/var/www
 VHOST_EXT="vhost"
-VHOST_DIR=/etc/nginx/sites-available
+VHOST_DIR=/etc/nginx/conf.d/vhosts
 BOTS_DIR=/etc/nginx/bots.d
 CONF_DIR=/etc/nginx/conf.d
 MAIN_CONF=/etc/nginx/nginx.conf
