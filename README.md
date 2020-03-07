@@ -1,3 +1,13 @@
+# Custom Version for CWP Pro
+
+### Updates:
+- Updated installer to find the location of the standard CentOS Web Panel - CWP VHosts.
+- Removed SEO tool bot blocking (Ahrefs, SemRush, etc.)
+- Adjustments for other errors with the standard CWP installation.
+
+_______________
+
+
 <img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/_logo_nginx_bad_bot_blocker.png" alt="Nginx Ultimate Bad Bot Spam Referrer Blocker - Nginx Block Bad Bots, Vulnerability Scanners, Malware and Adware, Malicious Sites, Spam Referrers, Bad Referrers, Spam Blocker with DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders"/>
 
 | REPO | INFO |
