@@ -35,7 +35,7 @@
 CONF_DIR=/etc/nginx/conf.d
 BOTS_DIR=/etc/nginx/bots.d
 SCRIPT_DIR=/usr/local/sbin
-REPO=https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master
+REPO=https://raw.githubusercontent.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/master
 
 ####### end user configuration ##########################
 OS=$(uname -s)
@@ -358,4 +358,4 @@ exit $?
 
 # PLEASE ALSO SEE THE SETUP SCRIPT TO INSERT THE NECESSARY INCLUDES FOR YOU
 ### You can now use a setup script contributed by Stuart Cardall to automatically add the includes for you
-### See - https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/setup-ngxblocker
+### See - https://raw.githubusercontent.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/master/setup-ngxblocker
