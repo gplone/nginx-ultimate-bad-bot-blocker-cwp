@@ -1,4 +1,4 @@
-<img width="350" src="https://github.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/blob/master/.assets/_logo_nginx_bad_bot_blocker.png"/><img width="350" src="https://github.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/blob/master/.assets/cwp_logo.png"/>
+<img width="450" src="https://github.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/blob/master/.assets/_logo_nginx_bad_bot_blocker.png" alt="Nginx Ultimate Bad Bot Spam for CentOS Web Panel"/><img width="450" src="https://github.com/gplone/nginx-ultimate-bad-bot-blocker-cwp/blob/master/.assets/cwp_logo.png" alt="CentOS Web Panel"/>
 
 
 | REPO | INFO |
